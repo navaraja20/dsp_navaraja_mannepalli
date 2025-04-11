@@ -1,0 +1,7 @@
+jupyter==1.0.0
+flake8
+numpy
+pandas
+scikit-learn
+joblib
+house_prices==0.1.0
