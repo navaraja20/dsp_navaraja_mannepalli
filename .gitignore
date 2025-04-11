@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+house_prices.egg-info/
 build/
 develop-eggs/
 dist/
@@ -136,6 +137,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.in
+.toml
 
 # Spyder project settings
 .spyderproject
