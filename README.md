@@ -69,9 +69,8 @@ Format code: autopep8 --in-place --aggressive house_prices/*.py
 
 📊 Results:
 
-Metric	Value
-RMSLE	0.210
-R²	0.825
+![image](https://github.com/user-attachments/assets/a23a2cf7-238d-40b6-a4b7-c61c150110cf)
+
 
 📧 Contact:
 Navaraja Mannepalli - nava-raja.mannepalli@epita.fr
