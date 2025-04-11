@@ -1,7 +1,11 @@
 # House Price Prediction Model
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![NumPy](https://img.shields.io/badge/NumPy-1.21%2B-blue)
+![Pandas](https://img.shields.io/badge/Pandas-1.3%2B-orange)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0%2B-orange)
+![Flake8](https://img.shields.io/badge/Flake8-5.0%2B-yellow)
+![Joblib](https://img.shields.io/badge/Joblib-1.0%2B-green)
 
 A machine learning pipeline for predicting house prices using linear regression, featuring full industrialization from exploratory analysis to production-ready deployment.
 
@@ -55,18 +59,7 @@ predictions = make_predictions(test_df)
 
 📂 Project Structure:
 
-dsp_navaraja_mannepalli/
-├── house_prices/              # Package source
-│   ├── __init__.py
-│   ├── preprocess.py          # Data cleaning
-│   ├── train.py               # Model training
-│   └── inference.py           # Prediction logic
-├── notebooks/
-├── models/                    # Persisted objects
-├── data/                      # Dataset files
-├── setup.py                   # Package config
-├── requirements.txt           # Dependencies
-└── README.md
+![image](https://github.com/user-attachments/assets/cc0ab29f-5671-412a-8645-a2a2af6aafea)
 
 🔧 Development:
 
